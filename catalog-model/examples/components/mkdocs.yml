@@ -1,0 +1,27 @@
+site_name: 'RESETFLIX Docs'
+site_description: 'Documentation for RESETFLIX APIs'
+site_author: 'Lucas Damaceno'
+site_url: 'https://github.com/LucasKonrath/backstage-test'
+copyright: "copyright &copy; 202X Lucas Damaceno"
+
+repo_url: 'https://github.com/LucasKonrath/backstage-test'
+edit_uri: ""
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/cosckoya
+    - icon: fontawesome/brands/dev
+      link: https://dev.to/cosckoya
+
+theme:
+  name: material
+  logo: img/logo.png
+  favicon: img/favicon.png
+  language: en
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: deep purple
+  icon:
+    repo: fontawesome/brands/github
