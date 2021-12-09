@@ -25,3 +25,8 @@ theme:
     accent: deep purple
   icon:
     repo: fontawesome/brands/github
+
+nav:
+  - Home: index.md
+  - API: api.md
+  - Responsible: owner.md
